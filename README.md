@@ -1,4 +1,3 @@
 # my project 
 Hello World
-
-eiei 
+hello read me
